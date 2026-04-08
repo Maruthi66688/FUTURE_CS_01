@@ -41,7 +41,7 @@ Vulnerability Assessment of a Web Application
 - Enable security headers  
 
 ## 📄 Report
-- [Download Report](../VULNERABILITY%20REPORT.pdf?raw=true)
+- [Download Report](./VULNERABILITY20%REPORT.pdf)
 
 
 ---
